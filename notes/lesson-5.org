@@ -1,0 +1,53 @@
+* problem-solving hypothesis 
+** hypothesis
+    - a statement that seeks to explain why something has happened or might happen, under certain conditions
+    - often written as if-then statements
+    - uses sample data to extrapolate insights about a larger population
+** hypothesis driven entrepreneurship in startups
+    - since startups often confront significant resource constraints and considerable uncertainty about the viability of a product, the use hypotheses
+    - a hypothesis-driven approach
+      + maximizes per unit resources expended, the amout of information gained for resolving such uncertainty
+      + an entrepreneur translates her vision into falsifiable business model hypotheses, and thenm tests those hypotheses using a series of minimum viable products
+    [[./media/hypothesis-driven.png]]
+*** steps in hypothesis driven entrepreneurship
+    1. develop a vision
+       - he must have a vision for the problem that will be addressed
+       - aka ideation
+    2. translate vision into hypotheses
+       - translates vision into falsifiable business model hypothesis
+    3. specify MVP tests
+       - paul grahan: best way to accelerate learning is to "launch early and often"
+       - uncertainty can be resolved to some extent through traditional market research techniques, but feedback is more reliabhle in the hands of real customers in a real-world context
+       - launching early and often is done through MVPs
+       - E.Ries (Build-measure-learn) 3 lean startup principles
+       - by launching series of MVPs, an entrepreneur reduces product development batch sizes andcybe times, yielding two benefits: (a) short product development cycles [accelerates feedback gathering] (b) releasing feature revisions in small batches makes it easier to interpret test results and to diagnose problems
+    4. Prioritize tests
+       - decide how to sequence the testing of the MSP
+       - should give priority to tests that can eliminate considereable risk at low cost
+    5. Learn from mvp tests
+       - evaluate feedback gained from MVP tests
+       - humans are susceptible to cognitive biases
+    6. persevere, pivor, or perish
+       - after evaluating MVP test results and other marker feedback, decide whether to persevere, pivot, or perish
+    7. Scaling and ongoing optimization
+       - when product market fit is achieved, ventual can deliver adequate value
+       - it is the time to scale, to invest aggressively in customer acquisition and to amass the additional resources required
+    8. 
+*** Eric Ries
+    - author o fthe lean startup and the startup way
+    - MVPs may constrain product functionality and/or operational capabilty
+    - constrained functionality
+*** False negative
+    - indicates that a hypothesis has been disconfirmed when in reality it is valid
+*** cognitive bias
+    - systematic errors in the individual's reason about the world due to a subjective perception of reality
+*** storyboarding
+    - is a graphic organizer that provides the viewer with a highlevel view of a project. turns ideas into a logical and convincing sequence
+    - allows to easily and inexpensively test multiple product visions, customer journey maps, and UX product flows
+    - how to get started
+      + what problem are my tearget users currently experiencing
+      + what would help alleviate this problem
+      + how will my product provide this form of problem alleviation
+      + what does a "happy user" look like
+	[[./media/story.png]]
+*** hub
