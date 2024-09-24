@@ -1,0 +1,141 @@
+* Team formation
+** entrepreneurial team formation
+    - process through which founders establish a team to start a new venture
+*** the decider
+    - the one who will make the decisions (CEO, founder, VP, product manager, team leaders, etc.)
+    - if reluctant try the following
+      + rapid progress - emphasze the amount of progress you'll make in your sprint
+      + it's an experiment - first strint as an experiment
+      + explain the tradeoffs - list of important stuff that will be missed, tell what to skip and postpone and why
+      + it's about focus - be honest about motivations
+** formation strategies
+    - how do co-founders select each other?
+    - forming teams in the entrepreneurial arena allows individuals to search for, and select people whom to initiate a new venture
+*** interpersonal-attraction strategy
+    - suggests co-founders select each other because they share similar interesets, qualities, and returen the sentiment of liking
+    - emphasize supplementary fit
+    - birds of a feather flock together
+    - 
+*** resource seeking strategy
+    - emphasizes complementary fit
+
+** Team characteristics: four inter-related characteristics
+    1. founding team diversity
+       - collective characteristics of the founding team
+       - demographic personal diversity & functional-informational diversity
+    2. equity distribution
+       - how the equity is distributed among the co-founders
+       - depends on the leadership structure
+    3. leadership
+       - welp, leaders?
+    4. structural boundaries
+       - distinguishesbetween members considered core of peripheral in the founding team
+       - core members - significantly involved and committed to the new venture
+       - peripheral members - temporary and sporadic involvement
+
+** Team processes
+    - alignment of values and vision as well as cohjesion inthe form of interpersonal emotional bonds within a close-knit unit
+    - specialization-related processes
+      + may enable co-founders to rely on others' diverse knwledge bases
+
+** Team performance
+    - successful efforts at entrepreneurial team formation were associated with desirable performances outcomes
+
+** Tasks of startup foundeers
+before creating a team, undertanding the key activities that most startups do is a must. The following are some of the vital tasks.
+
+    1. idea generation
+       - must able to brainstorm and collaborate and contribute to what different kinds of ideas they have to solve a problem
+    2. project management
+       - identify the scope, cost, and time needed
+    3. design the product
+       - translate customer needs into a product design with better user experience
+    4. develop the product
+       - be able to build the solution they proposed
+    5. product marketing
+       - must be able to market the product and communicate the value proposition of your product to your target market
+    6. customer qualification
+       - identify who their customers are and create a persona of their customers
+    7. business and revenue modeling
+       - must be able to identify what kind of revenue models are suitable for their product or service
+    8. competitive analysis
+       - identiry competitors
+    9. product sales
+       - seel products to target customers
+    10. product deployment
+       - deploy and bring the products to the market
+    11. accounting and finance
+       - manage finances
+    12. public speaking
+       - must have qualities for public speaking
+    13. fund raising
+       - seek external funding from potential investors
+
+** Experience, network, knowledge, and skills
+    1. experience
+       - the team must have the experiece or the ability to learn technical skills to esign and build projects
+    2. network
+       - vast netrwork of connections are needed to reach out to possible partners, mentors, or investors
+    3. knowledge
+       - they need to have knowledge or background about the industry or market they are entering into
+
+** skills or strengths
+    qualities that a team member can have together with any of the qualities
+    1. leadership
+    2. team plater
+    3. project management
+    4. strategy
+    5. execution
+    6. UI/UX design
+    7. public speaking
+    8. influence
+
+       
+** Types of team formation
+according to UC Berkeley
+    1. Team-centric startup formation
+       - build your team from your existing network
+       - invite trusted people
+    2. research-centric startup formation
+       - encourage your co-researchers to estabnlish a startup and bring your reseasrch outputs to the market
+    3. markey opportunity-centric startup formation
+       - teams are formed during a hackathon or a competition
+       - team must be diverse in terms of technical experience, network, knowledge, and skills
+	 
+       
+** Tree sides of team diversity
+there are three sides of team diversity that was coined during an entrepreneurship seminar by UC Berkley
+
+    1. Business function
+    2. Roles
+    3. silicon valley triptych
+
+*** Business function
+    1. strategist
+       - knows how to create a business plan and analyze the market
+    2. designer
+       - designs user experience and user interfaces
+    3. builder or an engineer
+       - develops prototypes
+    4. sales/marketing expert
+       - knoowt how to attract customers
+    5. project manager
+       - assigns tasks to each member and oversees all of the activities inside the startup
+	 
+*** Roles (to play)
+    1. idea guy
+    2. communicator
+    3. peacemaker
+    4. problem-finder
+    5. problem-solver
+    6. executor
+
+*** Silicon valle tripych
+    1. hustler
+       - sells the product or seeks invesetment
+    2. hacker
+       - builds the product
+    3. hipster
+       - designs the product
+    4. hound
+       - initially talks to customers and does the market research
