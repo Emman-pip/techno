@@ -1,0 +1,120 @@
+
+* (chap 3)opportunity recognition
+
+** finding an opportunity
+    - first step in the entrepreneurial process
+    - opportunity recognition
+      + process found in the way that an individuals with an entrepreneurial mindset approach new business venture or ideas
+    - opportunity
+      + favorable set of circumstances that create the need for a new product, service or idea
+	
+*** how entrepreneurial firms start
+    - internally stimulated
+      + startws a firm, searches for and recognizes opportunity then starts a business
+    - externally stimulated
+      + recognizes a problem or an opportunity gap and creates a business to fill it
+	
+*** entrepreneurial opportunity
+    - point at which identifiable consumer demand meets the feasibility of satisfying the requested product or service
+    - demain meets feasibility of satisfying the requested product of service.
+    - feasibility (in this context)
+      + identifying a sizable target market interested in the product or service that has sufficient profitability for the ventore's financial success
+
+*** Theories of opportunities
+
+**** joseph schumpeter
+    - entrepreneurs create value by ecploiting a new invention
+    - entrepreneurial innovation is the disruptive force that creates and sustains economic growth, it can destroy established companies, reshapre industries, and disrupt employmnent (this force is creative destruction)
+
+**** identifying opportunity
+    - learning tech, see opportunities
+
+**** supply and demand
+    - are economix terms relatin to the production of goods
+    - supply
+      + amount of a product or service produced
+    - demand
+      + consumer or user desire fot the outputs, products, or services produced
+
+** identify a problem
+    - for a business to succeed, it must solve a problem
+
+*** marius ursache
+    - real talent in entrepreneurship is finding the right problem, not building the right solution
+
+* (chap 4) value preposition
+    - refers to the value a company promises to deliver to customers
+    - part of a company's overall marketing strategy
+    - provides declaration of intent or statement that introduces a company's brand to consumers by telling them what the company stands for, how it operates, and why it deserves their business
+    - summary of why a product should be bought
+
+** understanding a value proposition
+    - promise by a company to a customer or market segment
+    - to-the-point and appeals to a customer's strongest decision making drivers
+    - helps maintain company's economic moat
+      + is a competative advantage (coined by warren buffet)
+      + wider the moat, bugger and mor resilient the firm is to competition
+
+** employee value prooposition
+    - compensation
+    - benefits
+    - career
+    - culture
+
+** importance of a value proposition
+    - provides a compny with a merhodto influence the decision-making of customers
+
+** requirement of a value proposition
+    - should always be displayed prominently on a company's website and in other consumer touch points
+    - should be a single memorable sentence, phrase, or even a tagline
+
+** how to create value proposition
+    - know your customers
+    - understand your costs and benefits
+    - don't forget ahbout competitors
+    - be clear and concise
+    - design is king!
+
+** product-market fit
+    - scenerio in which a company's target customers are buying, using, and telling others about the company's product in numbers large enought to sustain that produxt's growth and profitability
+    - 
+
+*** marx andreessen
+    - often credited of developing the concept of product-market fit
+    - finding a good market with a product capale of satisfying that market
+    - 
+      
+*** Dan olsen
+    - lean product playbook
+    - high level method that can help a team get started
+      1. determine target customer
+      2. identify undeserved needs of that customer
+      3. define your value proposition
+      4. specify your minimum viable product (MVP) feature set
+      5. develop your MVP
+      6. test you MVP with customers
+
+*** alex schultz
+    - facebook's VP of growth
+    - thinking they have product-market fit when they don't
+    - BFMF and APMF
+    - 
+
+     
+*** andrew chen
+    - offered some signals that a company is heading in the right direction
+      + surveying customers, will they switch to yours?
+      + accurate competitive offerings
+      + users demostrate an understanding of your product's defferentiators
+      + how do underlying metrics measure up against competitors
+
+**** quantitative
+    - NPS (net promoter score)
+    - churn rate
+    - growth rate (CAGR)
+    - market share
+
+**** qualitative
+    - word of mouth
+    - calls from media or industry analysts
+    - coverage of product and company increases
