@@ -79,7 +79,7 @@
     - scenerio in which a company's target customers are buying, using, and telling others about the company's product in numbers large enought to sustain that produxt's growth and profitability
     - 
 
-*** marx andreessen
+*** marc andreessen
     - often credited of developing the concept of product-market fit
     - finding a good market with a product capale of satisfying that market
     - 
