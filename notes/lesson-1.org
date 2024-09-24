@@ -1,0 +1,75 @@
+* Mindsetting
+** Silicon Valley
+    - highly technological and innovative region in calidornia, U.S. is the birthplace of many of our successful brands
+    - name was derived from the silicon meterial used to manufacture semiconductors
+    - established the stanford industrial (research) park where tech companies can lease university land in long-term
+
+** Startup
+    - A company in the initial business stage
+    - focused on solving a specific problem of a specific market using innovative approaches
+    - can be funded by angel investors, venture capitalists, crowdfunding, credit, or even family and friends
+    - chances that a startup may fail in its first year is very high -- usually caused by lack of a user-centric solution
+
+** Minimum Viable Product (MVP)
+    - a development technich in which a new product is introduced in the market with basic features, but enough to get attention
+    - final product is released after getting sufficient feedback from the initial users
+
+** Four Founders Mindset
+
+*** Carlo Valencia
+    - founder and facilitator at startup PH training
+    - count 4 founder mindsets that every newbie entrepreneur must learn in order to success with their startup
+
+*** Four Founders Mindset
+    1. find users
+       - identify who their customers or users are, what their needs or problems are and how they can be engaged
+    2. founders don't have plans to execure, they have assumptions to test
+       - it will always be a constant search for the right plan to execute
+    3. everything is an experiment
+       - eric ries
+       - build-measure-learn
+    4. you will fail
+       - there is no undefeated innovation and entrepreneurship
+***** eric ries
+	- an american entrpreneur
+	- coined 5 principles of lean startup
+	- build-measure-learn feedback loop
+	- build with minimal effort -  measure feedback (validation of targets) - learn (either improve or REDO an MVP)
+** Fixed mindset vs Growth mindset
+*** Caroll Dweck
+    - mindset: the new psychology of success, the theory of the two mindsets and their differences in terms of outcomes
+    - fixed mindset
+      + leads to people with uncultivated qualities
+      + fear of failure
+      + see setbacks as a very high wall which they don't try to crossover
+    - growth mindset
+      + take on new challenges
+      + very persistent and see effort
+      + not afraid of failure and rejection
+      + like to hear criticicms
+      + often inspired by others' success and aspire to become one
+      + 
+** Design thinking mindset
+    - human-centered approach of solving problems
+    - encourages participants to be human-centered, collaborative, optimistic, and experimental
+    - one must understand the needs, perspectives, obstacles
+    - design thinking framework has five(5) phases:
+      + empathy
+      + define
+      + ideate
+      + prototype
+      + test
+	[[./media/designthinking.png]]
+*** Five phases of design thinking framework
+    1. empathy
+       - identify who their target ctomers are and try to understand their needs
+    2. define
+       - create a customer persona where they will define the following: goals and aspirations, motivations, frustrations, and personal beliefs
+    3. ideate
+       - brainstorm and generate as many ideas as possible
+    4. prototype
+       - build or prototype using inexpensive materials
+    5. test
+       - show the developed prototypes to customers
+       - get feedbacks
+       - this phase will determine whether to pursue theidea or pivot to a new idea
