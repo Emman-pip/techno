@@ -18,7 +18,7 @@
 
 *** Carlo Valencia
     - founder and facilitator at startup PH training
-    - count 4 founder mindsets that every newbie entrepreneur must learn in order to success with their startup
+    - coined 4 founder mindsets that every newbie entrepreneur must learn in order to success with their startup
 
 *** Four Founders Mindset
     1. find users
@@ -62,7 +62,7 @@
 	[[./media/designthinking.png]]
 *** Five phases of design thinking framework
     1. empathy
-       - identify who their target ctomers are and try to understand their needs
+       - identify who their target customers are and try to understand their needs
     2. define
        - create a customer persona where they will define the following: goals and aspirations, motivations, frustrations, and personal beliefs
     3. ideate
