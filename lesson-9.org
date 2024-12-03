@@ -1,0 +1,157 @@
+
+* Business model
+
+** What is a business model?
+- describes the rationale of how an organization creates, delivers, and captures value
+- a description of how your business makes money
+- how you deliver value to your customers at an appropriate cost
+- exploration of what costs and expenses you have and how much you can charge for your produce or service
+
+** can be broken down into four components
+1. business offering
+2. customers
+3. infrastructure
+4. financial viability
+
+** business model is the foundation of a company, while the business plan is the structure
+- business plan
+  - goes in to detail how business model could work
+  - the way a company can present its strategy
+  - used to show the financial performance that is expected for the near future
+  - a document that shows the strategy
+- business model
+  - can also be considered the mechanism that a company has in order to generate profits
+  - the goal should aim to  simplify the4 money process
+  - gateway to show how an organization is functioning
+
+*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan
+** Kinds of revenue models
+1. *franchise model (expansion, royalty)*
+   - best for expansion
+   - allows the franchisor to license its resources, brand name, intellectual property, and rights to sell its products and services in exchange for a royalty
+2. *multi-sided platform model (both sides)*
+   - offers services to both sides of business
+   - linkedIn
+3. *cash machine business model (low profit margin)*
+   - cash conversion cycle
+   - how quickly a company converts cash into goods, vice versa
+   - used by companies with low-profit margin but survive in the market with a disruptive position
+4. *freemium business model(Saas, lite)*
+   - used by tech companies in the Software as a Service or apps business model
+   - free (lite) versions to customers but for a limited time or with limited features
+5. *subscription business model (fixed amount, enough value)*
+   - customer get services by pating a fixed amount every month or year
+   - has to provide enough value to its customer
+6. *peer-to-peer business model (middle man, commissions)*
+   - a company acts as a middleman between two individual parties and creates value for both demand and supply side
+   - different from B2B or B2C, makes mnoney through commissions
+   - airbnb
+7. *one-for-one busines model (social entrepreneurship, profit and not-for-profit)*
+   - social entrepreneurship business model
+   - cater to socally conscius millenial
+   - TOMS shoes
+8. *hidden revenue business model (don't have to pay)*
+   - users don't have to pay for the services offered but the company still earns revenue strams from other resources
+9. *razor and blade business model (printer and cartridge business model)*
+   - printer and cartridge model
+   - razor is sold at a low price while another associated item (blade), is sold at a higher price
+10. *reverse razor and blade business model (low prices products, enrourage to buit high)*
+    - offering low prices poducts to encourage customers to but high prices items as well
+11. *direct sales business model (one-on-one conversation)*
+    - products are directly sold to the end customers either in a one-on-oine conversation or small gathering
+    - personal touch to its customers
+12. *affilieate marketing business model (recommending)*
+    - recommending products
+    - pais based on sales opportunities that they bring to theur vender companies
+13. *consulting business model (consulting services)*
+    - provides consulting services by hiring exprience and qualified people and having them assigned on client's projects
+14. *agency-based business model (ouside firm)*
+    - project-based business model where an outside firm is hird to complete a specific task
+    - business that lack internal expertise hire agencies to get a customizable solution for their needs
+15. *user-generated content business model (generate quality content)*
+    - allowing users to generate quality content on websites for free to answer other other users' quations and provide reviews
+16. *online educational busines model (education)*
+    - targeting the educational industry
+    - allows to get access to educational resources via a flat free or subscription
+    - combination of freemium, course fees, and a subsription-based model
+17. *instant news business models (focuses on sharing and updating news instantly)*
+    - focuses on sharing and updating news instantly without any intermediary
+18. *multi-brand business model (more than two products)*
+    - marketing more than two products, almost similar yet competing with each other and come under a single organization
+    - having different brand names
+19. *E-commerce business model (allows buyers to transact using an online platform)*
+    - simple yet most promising
+    - allow sto transact using an online platform
+20. *distribution based business model (distribution channel)*
+    - a company that works by having one or a few key distribution channels to integrate with its final customers follows this model
+21. *drop-shipping business model (sell other products on their website)*
+    - business owner contacts many dfferent suppliers/wholesalers to sell their product on their website
+22. *enterprise business model (big deals)*
+    - focusing only on large clients
+    - based on getting big deals
+23. *social enterprise business model (make money without harm)*
+    - make profits without causing hard to everyone
+24. *direct-to-consumers busines model (directly sell)*
+    - products to final cusomers directly
+    - highly effective marketing campaigns and advertinsing activities are required to retain customers
+25. *family-owned business model (run by a family)*
+    - run by a family and its business making are controlled by two or more famuly members
+26. *blockchain-based business models (most advanced)*
+    - decentralized network systems on a global scale
+27. *vertically integrated supply chain business model (supply chain)*
+    - owning and managing supply chain
+    - manufacture, distribution, and retail for its products by the company itself
+28. *combination of chains and franchise business model (mix of operated chains and licensed stores)*
+    - mix of operated chains and licensed stores
+    - starbucks
+29. *data licensing busines model (data)*
+    - sells data
+30. *attention merchant business model (operate through advertising models)*
+    - operate through adverising models and make money by grabbing the attention of their target audience
+31. *discount with high-quality busines model (bulk, sell on wholesale rate)*
+    - supermarkets and departmental stores
+    - get products in hbulk and sell on the wholesale rate
+32. *pyramid scheme business model (considered illegal)*
+    - recruiting members by promising them a reward
+33. *nickel and dime business model (lowest price strategy)*
+    - lowest price
+    - keeping the basic price as low as possible, perks with additional charge
+34. *aggregator business model (collective information)*
+    - provices collective information about a particular service and sells them under their brand name
+35. *API licensing business model (third-party plugin/add-on)*
+    - allows developers to create third-party plugin/add-on apps for well-known applications
+36. *crowd source business model (operational solutions)*
+    - facilitates companies with access to operational solutions
+37. *high touch business model (customers' involvement and interacxtion on the highest level)*
+    - customers' involvement and interacxtion on the highest level
+38. *low touch business model (minimum customer interaction)*
+39. *flex pricing business model (negotiable final price)*
+    - final price of the item is negotiable
+40. *auction-based businee model (bidding option)*
+    - bidding option to but a product or service
+41. *reverse auction business model (government contracts)*
+    - setting the highest prices and let the buyers bid accordingly until the prices start to drop
+42. *broketage business model (charges a fee for any transaction)*
+    - provides a single platform to buys and sellers for communicating the deals
+43. *bundling busines model (package gathered aas a single unit)*
+    - combines products ro services to offer a package gathered aas a single combined unit to sell at a comparatively low price
+44. *disintermediation model (removes capacity of outsourcing)*
+    - removes the capacity of outsourcing o a third-party intermediary
+    - organizations that follow this model deal with the clients and customers directly via different channels
+45. *fractional business model (partial usage)*
+    - divides products and services into further subcategories to introduce variety in the products, chargin for each category seperately
+46. *pay as go business model (charges as per usage)*
+    - business model charges as per the usage
+47. *product as a service (sell the service of the product not itself)*
+    - sell the service of a product rather than selling the actual product
+48. *standardization business model (make a service universal)*
+    - make aservice universal which was once a customized one
+    - attracts customers due to convenience and low prices
+49. *user base communities (earn by developing an interactive platfor where users comunicate on their own with each other and can advertise at the same time)*
+    - earn by developing an interactive platfor where users comunicate on their own with each other and can advertise at the same time
+50. *leasing business model (renting)*
+    - renting instead of selling
+51. *advertising (creating content people want to read or watch)*
+    - satisfy readers or viewer and advertisers
+52. *concierge customization (existing producs and add custom elements)*
+    - some businesses take existing products or services and add a custom element to the transaction that makes every sale unique for the given customer
