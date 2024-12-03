@@ -21,7 +21,7 @@
   - a document that shows the strategy
 - business model
   - can also be considered the mechanism that a company has in order to generate profits
-  - the goal should aim to  simplify the4 money process
+  - the goal should aim to  simplify the money process
   - gateway to show how an organization is functioning
 
 *** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan*** business model is goind to be the center os the business plan
@@ -58,11 +58,11 @@
 10. *reverse razor and blade business model (low prices products, enrourage to buit high)*
     - offering low prices poducts to encourage customers to but high prices items as well
 11. *direct sales business model (one-on-one conversation)*
-    - products are directly sold to the end customers either in a one-on-oine conversation or small gathering
+    - products are directly sold to the end customers either in a one-on-one conversation or small gathering
     - personal touch to its customers
-12. *affilieate marketing business model (recommending)*
+12. *affiliate marketing business model (recommending)*
     - recommending products
-    - pais based on sales opportunities that they bring to theur vender companies
+    - pays based on sales opportunities that they bring to their vender companies
 13. *consulting business model (consulting services)*
     - provides consulting services by hiring exprience and qualified people and having them assigned on client's projects
 14. *agency-based business model (ouside firm)*
@@ -70,7 +70,7 @@
     - business that lack internal expertise hire agencies to get a customizable solution for their needs
 15. *user-generated content business model (generate quality content)*
     - allowing users to generate quality content on websites for free to answer other other users' quations and provide reviews
-16. *online educational busines model (education)*
+16. *online educational business model (education)*
     - targeting the educational industry
     - allows to get access to educational resources via a flat free or subscription
     - combination of freemium, course fees, and a subsription-based model
@@ -91,7 +91,7 @@
     - based on getting big deals
 23. *social enterprise business model (make money without harm)*
     - make profits without causing hard to everyone
-24. *direct-to-consumers busines model (directly sell)*
+24. *direct-to-consumers business model (directly sell)*
     - products to final cusomers directly
     - highly effective marketing campaigns and advertinsing activities are required to retain customers
 25. *family-owned business model (run by a family)*
@@ -108,7 +108,7 @@
     - sells data
 30. *attention merchant business model (operate through advertising models)*
     - operate through adverising models and make money by grabbing the attention of their target audience
-31. *discount with high-quality busines model (bulk, sell on wholesale rate)*
+31. *discount with high-quality business model (bulk, sell on wholesale rate)*
     - supermarkets and departmental stores
     - get products in hbulk and sell on the wholesale rate
 32. *pyramid scheme business model (considered illegal)*
@@ -131,7 +131,7 @@
     - bidding option to but a product or service
 41. *reverse auction business model (government contracts)*
     - setting the highest prices and let the buyers bid accordingly until the prices start to drop
-42. *broketage business model (charges a fee for any transaction)*
+42. *brokerage business model (charges a fee for any transaction)*
     - provides a single platform to buys and sellers for communicating the deals
 43. *bundling busines model (package gathered aas a single unit)*
     - combines products ro services to offer a package gathered aas a single combined unit to sell at a comparatively low price
